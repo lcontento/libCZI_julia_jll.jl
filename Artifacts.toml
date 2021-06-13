@@ -1,0 +1,10 @@
+[[libCZI]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aa34c5d54b90937e7a9606ebe5fcea837e0d9139"
+libc = "glibc"
+os = "linux"
+
+    [[libCZI.download]]
+    sha256 = "448c5d5d0a432d57437ca12e76f8075fbd877a402aedd6a9c1e4076add82fc13"
+    url = "https://github.com/lcontento/libCZI_julia_jll.jl/releases/download/libCZI-v0.24.0+0/libCZI.v0.24.0.x86_64-linux-gnu-cxx11.tar.gz"
